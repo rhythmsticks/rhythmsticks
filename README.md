@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 I'm learning to code in Python, so teaching myself and learning with colleagues for now. Would be keen to collaborate with others once I've mastered the basics! 
 
